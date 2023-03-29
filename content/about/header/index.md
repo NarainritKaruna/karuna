@@ -11,4 +11,3 @@ I'm PhD student in Medicine at Queen's University Belfast. I love family, coding
 
 My research primarily focuses on cardiovascular disease and translational research using preclinical models and human studies, particularly diabetic cardiomyopathy and heart failure. 
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
