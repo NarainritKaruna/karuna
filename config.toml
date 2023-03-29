@@ -31,14 +31,14 @@ enableEmoji = true
   orgName = "RStudio"
   orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  favicon = "/img/heart.png"
+  logo = "/img/heart.png"
+  mainSections = ["Publication"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
-  socialInFooter = true
+  socialInFooter = false
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
@@ -88,54 +88,44 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+      url       = "https://github.com/NarainritKaruna"
   [[params.social]]
       icon      = "facebook-square" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+      url       = "https://www.facebook.com/NarainritRx/"
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://www.instagram.com/iambank.nk/"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
-  [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
+      url       = "https://twitter.com/narainrit_k"
+
 
 [taxonomies]
   category = "categories"
   series = "series"
   tag = "tags"
+  
 
 [menu]
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "Narainrit Karuna"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
+    name = ""
     title = "Blog"
     url = "/blog/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = ""
     title = "Project Portfolio"
     url = "/project/"
-    weight = 3
+    weight = 5
   [[menu.header]]
     name = ""
     title = "Talks"
@@ -145,9 +135,9 @@ enableEmoji = true
     name = "Publication"
     title = "Publication"
     url = "https://scholar.google.com/citations?user=GNqb7rYAAAAJ&hl=en&oi=ao"
-    weight = 5
+    weight = 2
   [[menu.header]]
-    name = "Elements"
+    name = ""
     title = "Element Page"
     url = "/elements/"
     weight = 6
@@ -158,11 +148,7 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
+
   [[menu.footer]]
     name = "Contributors"
     title = "Contributors"
