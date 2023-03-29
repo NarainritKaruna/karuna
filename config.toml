@@ -132,19 +132,19 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
+    name = ""
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
+    name = ""
     title = "Talks"
     url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
+    name = "Publication"
+    title = "Publication"
+    url = "https://scholar.google.com/citations?user=GNqb7rYAAAAJ&hl=en&oi=ao"
     weight = 5
   [[menu.header]]
     name = "Elements"
