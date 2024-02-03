@@ -7,7 +7,7 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm PhD student in Medicine at Queen's University Belfast. I am just and ordinary person.
+I'm PhD student in Medicine at Queen's University Belfast. I am just an ordinary person.
 
 My research primarily focuses on cardiovascular diseases and translational research using preclinical models and human studies, particularly diabetic cardiomyopathy and heart failure. 
 
