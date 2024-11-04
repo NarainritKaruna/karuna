@@ -8,7 +8,7 @@ images:
 - img/pro1.JPG
 show_action_link: true
 show_social_links: false
-subtitle: PhD student and Lecturer
+subtitle: Lecturer
 text_align_left: false
 title: Narainrit Karuna (Bank)
 type: home
