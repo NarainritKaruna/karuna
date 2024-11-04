@@ -7,7 +7,7 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-obtained his PhD in Experimental Medicine from the Wellcome-Wolfson Institute at Queen's University Belfast. I am just an ordinary person.
+Narainrit obtained his PhD in Experimental Medicine from the Wellcome-Wolfson Institute at Queen's University Belfast. He is just an ordinary person.
 
 My research primarily focuses on cardiovascular diseases and translational research using preclinical models and human studies, particularly diabetic cardiomyopathy and heart failure. 
 
