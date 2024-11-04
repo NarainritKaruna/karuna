@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Email to nkaruna01@qub.ac.uk or narainrit.k@cmu.ac.th
+description: Email to narainrit.k[at]cmu.ac.th
 image_left: true
 images:
 - img/pro1.JPG
