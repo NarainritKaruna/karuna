@@ -5,7 +5,7 @@ action_type: text
 description: Email to narainrit.k[at]cmu.ac.th
 image_left: true
 images:
-- img/pro1.JPG
+- img/IMG_3795.JPG
 show_action_link: true
 show_social_links: false
 subtitle: Lecturer
