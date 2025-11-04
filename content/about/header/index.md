@@ -7,7 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-Narainrit obtained his PhD in Experimental Medicine from the Wellcome-Wolfson Institute at Queen's University Belfast. He is just an ordinary person.
-
-My research primarily focuses on cardiovascular diseases and translational research using preclinical models and human studies, particularly diabetic cardiomyopathy and heart failure. 
+Narainrit obtained his PhD in Experimental Medicine from the Wellcome-Wolfson Institute at Queen's University Belfast. My research primarily focuses on cardiovascular diseases and translational research using preclinical models and human studies, particularly diabetic cardiomyopathy and heart failure. Also, biomarkers of clinical relevance, such as infections and cancers, are investigated.
 
