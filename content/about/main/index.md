@@ -7,7 +7,8 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
   <img src="/img/NK_lab.png" style="max-width:600px; border-radius:8px;"/>
-  
+  <img src="/img/Karuna's Lab.png" style="max-width:600px; border-radius:8px;"/>
+
   Transcriptomics: We use various techniques such as RNA-bulk-seq and sn/c-RNA-seq to decipher the signature of diseases and response to therapies.
   
   Proteomics: We use both targeted and untargeted proteomics to understand disease progression and biomarkers. These are usually based on mass spectrometry and other technologies.
