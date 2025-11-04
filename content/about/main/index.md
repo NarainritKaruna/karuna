@@ -1,5 +1,7 @@
 ---
 ## Configure page content in wide column
+images:
+- img/IMG_3795.JPG
 title: "What we do" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
